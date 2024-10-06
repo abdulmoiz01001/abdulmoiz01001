@@ -1,15 +1,15 @@
 ![logo](https://github.com/abdulmoiz01001/abdulmoiz01001/blob/master/github%20banner.png)
 
 <h1 align="center">Hi✌️, I'm Abdul Moiz</h1>
-<h3 align="center">A passionate Frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack web Developer </h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🌱 I’m currently learning **Next JS and Java Programming**
+- 🌱 I’m currently Working on **Next JS Developer , MERN Stack Developer , Java Programming and Python Programming**
 
-- 💬 Ask me about **react js , JavaScript ,HTML ,CSS**
+- 💬 Ask me about **Next js , React js , Express js , Mongo db , PostgreSQL , JavaScript ,HTML ,CSS**
 
-- 📫 How to reach me **profession.ai01001@hotmail.com**
+- 📫 How to reach me **abdulmoiz01001@gmail.com**
 
 - ⚡ Fun fact **I am Silent and Smily boy**
 
