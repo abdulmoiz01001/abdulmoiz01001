@@ -3,7 +3,7 @@
 ### 🤖 AI Engineer | Data Scientist | Full-Stack Developer | Flutter Developer
 
 <p align="center">
-  <img src="https://github.com/abdulmoiz01001/abdulmoiz01001/blob/master/github%20banner.png" alt="Abdul Moiz GitHub Banner" width="100%"/>
+  <img src="github%20banner.jpg" alt="Abdul Moiz GitHub Banner" width="100%"/>
 </p>
 
 <p align="center">
