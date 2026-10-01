@@ -2,6 +2,14 @@
 
 ### 🤖 AI Engineer | Data Scientist | Full-Stack Developer | Flutter Developer
 
+# 🧰 Technology Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,postgres,mysql,flutter,dart,git,github,postman,tailwind,vite" />
+
+</p>
+
 <p align="center">
   <img src="github%20banner.jpg" alt="Abdul Moiz GitHub Banner" width="100%"/>
 </p>
@@ -293,13 +301,7 @@ One of my main areas of interest is combining **AI with real-world software appl
 
 ---
 
-# 🧰 Technology Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,postgres,mysql,flutter,dart,git,github,postman,tailwind,vite" />
-
-</p>
 
 ### AI / Data Science
 
